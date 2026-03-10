@@ -1,16 +1,25 @@
-## Hi there 👋
+<h1 align="center">Hi, I'm Mahmoud Kaarem 👋</h1>
 
-<!--
-**mahmoud-kaarem/Mahmoud-kaarem** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  A passionate software developer with a strong foundation in computer science, always eager to build meaningful and impactful projects.
+  I enjoy solving complex problems, writing clean code, and continuously learning new technologies.
+</p>
 
-Here are some ideas to get you started:
+<p align="center">
+  <a href="www.linkedin.com/in/mahmoud-kaarem">🔗 LinkedIn</a> •
+  <a href="https://github.com/mahmoud-kaarem">💻 GitHub</a>
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🚀 About Me
+
+- 🎓 Computer Science background with hands-on experience in software development
+- 🛠️ Skilled in building real-world applications and solving technical challenges
+- 🌱 Always learning and exploring new tools and frameworks
+- 🤝 Open to collaboration on interesting open-source projects
+- 📫 Reach me via [LinkedIn](www.linkedin.com/in/mahmoud-kaarem)
+
+---
+
+> *"Code is not just syntax — it's a way of thinking."*
