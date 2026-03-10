@@ -11,9 +11,8 @@
 🎯 I'm a passionate **Data Analyst** with a strong foundation in mathematics, statistics, and programming. I love transforming messy datasets into clear stories that drive decisions.
 
 - 🔍 **Specialties:** Data wrangling, exploratory data analysis (EDA), data visualization, and dashboarding
-- 🛠️ **Tools & Tech:** Python (Pandas, NumPy, Matplotlib, Seaborn) · SQL · Power BI / Tableau · Excel
-- 📐 **Skills:** Statistical analysis, predictive modeling, KPI tracking, business intelligence
-- 🌱 **Currently learning:** Machine Learning & advanced SQL optimization
+- 🛠️ **Tools & Tech:** Python (Pandas, NumPy, Matplotlib, Seaborn) · SQL · Power BI · Excel
+- 📐 **Skills:** Statistical analysis, KPI tracking, business intelligence
 - 💡 **Interests:** Finding patterns in data, building interactive dashboards, and telling data-driven stories
 
 ---
